@@ -443,7 +443,7 @@ header .container {
 \*-----------------------------------*/
 .newsletter { padding: var(--section-padding) 0; }
 .newsletter-card {
-  background: url(/images/swatch2.png) center no-repeat;
+  background-image: url(/images/swatch2.png) center no-repeat;
   background-size: cover;
   align-items: center;
   padding: 60px 20px;
