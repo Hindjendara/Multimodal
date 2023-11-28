@@ -443,7 +443,7 @@ header .container {
 \*-----------------------------------*/
 .newsletter { padding: var(--section-padding) 0; }
 .newsletter-card {
-  background-image: url('images/swatch2.png') center no-repeat;
+  background-image: url('images/compress.png') center no-repeat;
   background-size: cover;
   align-items: center;
   padding: 60px 20px;
@@ -719,7 +719,7 @@ header .container {
  #home-section {
       background-color: rgba(200, 200, 200, 0.5);
       padding: 50px 0;
-      background-image: url("images/test.jpg");
+      background-image: url('images/test.jpg');
       background-position: 10% 20%;
 
     }
