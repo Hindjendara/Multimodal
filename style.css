@@ -448,6 +448,7 @@ header .container {
   align-items: center;
   padding: 60px 20px;
   border-radius: 12px;
+ 
 }
 
 .newsletter-card{
@@ -720,6 +721,8 @@ header .container {
       background-color: rgba(200, 200, 200, 0.5);
       padding: 50px 0;
       background-image: url('images/test.jpg');
+   background-position: right top; 
+   
       
 
     }
